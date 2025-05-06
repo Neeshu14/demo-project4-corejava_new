@@ -1,7 +1,7 @@
 package variable_test;
 
 public class AdhaarCard {
-// Test
+// Candidate Details
     public static void main(String[] args) {
         // to Store a Candidate details
         String firstName = "Neeshu";
