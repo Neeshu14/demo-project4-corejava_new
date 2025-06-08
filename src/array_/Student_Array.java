@@ -20,5 +20,11 @@ public class Student_Array {
             System.out.println("While Loop :"+name[j]);
             j++;
         }
+
+        int a=0;
+        do {
+            System.out.println("Do while Loop :"+name[a]);
+            a++;
+        }while (a<5);
     }
 }
